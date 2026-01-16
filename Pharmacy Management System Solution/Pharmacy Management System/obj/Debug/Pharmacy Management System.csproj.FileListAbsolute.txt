@@ -1,0 +1,42 @@
+H:\C# Project\Pharmacy Management System Solution\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+H:\C# Project\Pharmacy Management System Solution\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+H:\C# Project\Pharmacy Management System Solution\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+H:\C# Project\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.AssemblyReference.cache
+H:\C# Project\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Add_Products_Form.resources
+H:\C# Project\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Admin_Add_User.resources
+H:\C# Project\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Admin_Dashboard.resources
+H:\C# Project\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Admin_Update_User.resources
+H:\C# Project\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Admin_View_User.resources
+H:\C# Project\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.BabyAndMomCare.resources
+H:\C# Project\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.BeautyCare.resources
+H:\C# Project\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.HealthCare.resources
+H:\C# Project\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Homepage.resources
+H:\C# Project\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.NaturalCareAndWellness.resources
+H:\C# Project\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Registration_Form.resources
+H:\C# Project\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.FormLogin.resources
+H:\C# Project\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+H:\C# Project\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.cache
+H:\C# Project\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.CoreCompileInputs.cache
+H:\C# Project\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+H:\C# Project\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
+C:\Users\ASUS\Downloads\Pharmacy Management System Solution (2) (1)\Pharmacy Management System Solution\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+C:\Users\ASUS\Downloads\Pharmacy Management System Solution (2) (1)\Pharmacy Management System Solution\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+C:\Users\ASUS\Downloads\Pharmacy Management System Solution (2) (1)\Pharmacy Management System Solution\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+C:\Users\ASUS\Downloads\Pharmacy Management System Solution (2) (1)\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Pharmacy Management System Solution (2) (1)\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Add_Products_Form.resources
+C:\Users\ASUS\Downloads\Pharmacy Management System Solution (2) (1)\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Admin_Add_User.resources
+C:\Users\ASUS\Downloads\Pharmacy Management System Solution (2) (1)\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Admin_Dashboard.resources
+C:\Users\ASUS\Downloads\Pharmacy Management System Solution (2) (1)\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Admin_Update_User.resources
+C:\Users\ASUS\Downloads\Pharmacy Management System Solution (2) (1)\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Admin_View_User.resources
+C:\Users\ASUS\Downloads\Pharmacy Management System Solution (2) (1)\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.BabyAndMomCare.resources
+C:\Users\ASUS\Downloads\Pharmacy Management System Solution (2) (1)\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.BeautyCare.resources
+C:\Users\ASUS\Downloads\Pharmacy Management System Solution (2) (1)\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.HealthCare.resources
+C:\Users\ASUS\Downloads\Pharmacy Management System Solution (2) (1)\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Homepage.resources
+C:\Users\ASUS\Downloads\Pharmacy Management System Solution (2) (1)\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.NaturalCareAndWellness.resources
+C:\Users\ASUS\Downloads\Pharmacy Management System Solution (2) (1)\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Registration_Form.resources
+C:\Users\ASUS\Downloads\Pharmacy Management System Solution (2) (1)\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.FormLogin.resources
+C:\Users\ASUS\Downloads\Pharmacy Management System Solution (2) (1)\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Pharmacy Management System Solution (2) (1)\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Pharmacy Management System Solution (2) (1)\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Pharmacy Management System Solution (2) (1)\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+C:\Users\ASUS\Downloads\Pharmacy Management System Solution (2) (1)\Pharmacy Management System Solution\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
